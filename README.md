@@ -27,23 +27,38 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Hariti Chawhan
-located_in: India
-current_job: Full Stack Developer
-education:
-  [
-    "Self-Taught Programmer",
-    "Pursuing Bachelor's of Technology",
-    "Computer Science and Engineering"
-  ]
-fields_of_interests:
-  [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "Game Development",
-    "Cyrptograpy",
-  ]
+🎓 Education
+Degree: Bachelor of Science in Computer Science
+University: G. H. Raisoni College of Engineering, Nagpur
+Graduation Year: 2024
+🚀 Projects
+List and briefly describe other projects you have worked on.
+
+Project Name 1
+
+Description: Brief description of the project.
+GitHub Repository: Link to Repo
+Project Name 2
+
+Description: Brief description of the project.
+GitHub Repository: Link to Repo
+🏆 Certificates
+List any relevant certificates or online courses you have completed.
+
+Certificate in Web Development
+
+Issued by: Online Course Platform
+Link to Certificate
+Machine Learning Specialization
+
+Issued by: University Name
+Link to Certificate
+📬 Contact
+Your Name
+Email: your.email@example.com
+LinkedIn: Your LinkedIn Profile
+Twitter: Your Twitter Profile
+Portfolio: Your Portfolio Website
 ```
 
 <p align="left">
